@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bokonokupiku", "WindowsGame1\WindowsGame1\Bokonokupiku.csproj", "{DD1796A4-00FA-4395-B64D-D34D3FA045DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame1Content", "WindowsGame1\WindowsGame1Content\WindowsGame1Content.contentproj", "{F38102F7-E2BE-45F4-A8D8-AF3785F11AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1796A4-00FA-4395-B64D-D34D3FA045DD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DD1796A4-00FA-4395-B64D-D34D3FA045DD}.Debug|x86.ActiveCfg = Debug|x86
+		{DD1796A4-00FA-4395-B64D-D34D3FA045DD}.Debug|x86.Build.0 = Debug|x86
+		{DD1796A4-00FA-4395-B64D-D34D3FA045DD}.Release|Any CPU.ActiveCfg = Release|x86
+		{DD1796A4-00FA-4395-B64D-D34D3FA045DD}.Release|x86.ActiveCfg = Release|x86
+		{DD1796A4-00FA-4395-B64D-D34D3FA045DD}.Release|x86.Build.0 = Release|x86
+		{F38102F7-E2BE-45F4-A8D8-AF3785F11AB8}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F38102F7-E2BE-45F4-A8D8-AF3785F11AB8}.Debug|x86.ActiveCfg = Debug|x86
+		{F38102F7-E2BE-45F4-A8D8-AF3785F11AB8}.Release|Any CPU.ActiveCfg = Release|x86
+		{F38102F7-E2BE-45F4-A8D8-AF3785F11AB8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
